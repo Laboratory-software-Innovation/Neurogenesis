@@ -1,0 +1,52 @@
+CSV,model_name,Comparison,p-value,Significant
+records/logs\aftfull_audio_cls_audio_cls.csv,aftfull,Loss vs Val_Loss,0.4148635610497193,False
+records/logs\aftfull_audio_cls_audio_cls.csv,aftfull,All Losses Across Epochs,0.003693012513793393,True
+records/logs\aftfull_audio_cls_audio_cls.csv,aftfull,All Val_Losses Across Epochs,3.490879198142638e-05,True
+records/logs\cbam_audio_cls_audio_cls.csv,cbam,Loss vs Val_Loss,0.0870279188513698,False
+records/logs\cbam_audio_cls_audio_cls.csv,cbam,All Losses Across Epochs,5.101348490868845e-05,True
+records/logs\cbam_audio_cls_audio_cls.csv,cbam,All Val_Losses Across Epochs,3.9362454359691784e-05,True
+records/logs\convmixer_audio_cls_audio_cls.csv,convmixer,Loss vs Val_Loss,0.038618113351305834,True
+records/logs\convmixer_audio_cls_audio_cls.csv,convmixer,All Losses Across Epochs,0.00011109040596109525,True
+records/logs\convmixer_audio_cls_audio_cls.csv,convmixer,All Val_Losses Across Epochs,0.00024329988010487826,True
+records/logs\doubleattention_audio_cls_audio_cls.csv,doubleattention,Loss vs Val_Loss,0.7790488513492639,False
+records/logs\doubleattention_audio_cls_audio_cls.csv,doubleattention,All Losses Across Epochs,7.868664493748983e-05,True
+records/logs\doubleattention_audio_cls_audio_cls.csv,doubleattention,All Val_Losses Across Epochs,1.966385303303333e-05,True
+records/logs\ecaattention_audio_cls_audio_cls.csv,ecaattention,Loss vs Val_Loss,0.03826286760137768,True
+records/logs\ecaattention_audio_cls_audio_cls.csv,ecaattention,All Losses Across Epochs,8.14936522693717e-05,True
+records/logs\ecaattention_audio_cls_audio_cls.csv,ecaattention,All Val_Losses Across Epochs,7.173126314327015e-05,True
+records/logs\exattention_audio_cls_audio_cls.csv,exattention,Loss vs Val_Loss,0.3458413477746826,False
+records/logs\exattention_audio_cls_audio_cls.csv,exattention,All Losses Across Epochs,0.001452413278671708,True
+records/logs\exattention_audio_cls_audio_cls.csv,exattention,All Val_Losses Across Epochs,0.0009145764944246497,True
+records/logs\fnet_audio_cls_audio_cls.csv,fnet,Loss vs Val_Loss,0.8326805761422558,False
+records/logs\fnet_audio_cls_audio_cls.csv,fnet,All Losses Across Epochs,0.0005477677917083286,True
+records/logs\fnet_audio_cls_audio_cls.csv,fnet,All Val_Losses Across Epochs,6.99697354391332e-05,True
+records/logs\gmlp_audio_cls_audio_cls.csv,gmlp,Loss vs Val_Loss,0.5000930263329765,False
+records/logs\gmlp_audio_cls_audio_cls.csv,gmlp,All Losses Across Epochs,0.0013547126427898293,True
+records/logs\gmlp_audio_cls_audio_cls.csv,gmlp,All Val_Losses Across Epochs,0.00018974293719390008,True
+records/logs\gru_audio_cls_audio_cls.csv,gru,Loss vs Val_Loss,0.8390831826397895,False
+records/logs\gru_audio_cls_audio_cls.csv,gru,All Losses Across Epochs,0.01185623256486874,True
+records/logs\gru_audio_cls_audio_cls.csv,gru,All Val_Losses Across Epochs,0.0015292726214048728,True
+records/logs\lstm_audio_cls_audio_cls.csv,lstm,Loss vs Val_Loss,0.9775770672866806,False
+records/logs\lstm_audio_cls_audio_cls.csv,lstm,All Losses Across Epochs,0.005263249942600144,True
+records/logs\lstm_audio_cls_audio_cls.csv,lstm,All Val_Losses Across Epochs,0.0007882891135205967,True
+records/logs\mixer_audio_cls_audio_cls.csv,mixer,Loss vs Val_Loss,0.3759837794513623,False
+records/logs\mixer_audio_cls_audio_cls.csv,mixer,All Losses Across Epochs,0.000992192824973036,True
+records/logs\mixer_audio_cls_audio_cls.csv,mixer,All Val_Losses Across Epochs,4.827642668563881e-05,True
+records/logs\mlp_audio_cls_audio_cls.csv,mlp,Loss vs Val_Loss,0.5630413110622352,False
+records/logs\mlp_audio_cls_audio_cls.csv,mlp,All Losses Across Epochs,1.5360544622436878e-09,True
+records/logs\mlp_audio_cls_audio_cls.csv,mlp,All Val_Losses Across Epochs,3.221810660839851e-11,True
+records/logs\parnet_audio_cls_audio_cls.csv,parnet,Loss vs Val_Loss,0.6481344675421868,False
+records/logs\parnet_audio_cls_audio_cls.csv,parnet,All Losses Across Epochs,0.00031121655203622593,True
+records/logs\parnet_audio_cls_audio_cls.csv,parnet,All Val_Losses Across Epochs,9.213437124888273e-05,True
+records/logs\rnn_audio_cls_audio_cls.csv,rnn,Loss vs Val_Loss,0.05421465895453633,False
+records/logs\rnn_audio_cls_audio_cls.csv,rnn,All Losses Across Epochs,3.9593286819961565e-05,True
+records/logs\rnn_audio_cls_audio_cls.csv,rnn,All Val_Losses Across Epochs,3.362069144208037e-05,True
+records/logs\seattention_audio_cls_audio_cls.csv,seattention,Loss vs Val_Loss,0.07634860244023296,False
+records/logs\seattention_audio_cls_audio_cls.csv,seattention,All Losses Across Epochs,5.947003796371847e-05,True
+records/logs\seattention_audio_cls_audio_cls.csv,seattention,All Val_Losses Across Epochs,4.5422759578637645e-05,True
+records/logs\simam_audio_cls_audio_cls.csv,simam,Loss vs Val_Loss,0.0033311180964804526,True
+records/logs\simam_audio_cls_audio_cls.csv,simam,All Losses Across Epochs,3.2053685645021146e-05,True
+records/logs\simam_audio_cls_audio_cls.csv,simam,All Val_Losses Across Epochs,4.7391546356142566e-05,True
+records/logs\ufoattention_audio_cls_audio_cls.csv,ufoattention,Loss vs Val_Loss,0.4833666829003604,False
+records/logs\ufoattention_audio_cls_audio_cls.csv,ufoattention,All Losses Across Epochs,0.0011351753266870591,True
+records/logs\ufoattention_audio_cls_audio_cls.csv,ufoattention,All Val_Losses Across Epochs,0.0003695989514710815,True

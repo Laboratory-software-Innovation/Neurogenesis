@@ -1,0 +1,256 @@
+CSV,model_name,Comparison,p-value,Significant
+records/logs\AFTFullClassifier_tsreg_jena_climate.csv,AFTFullClassifier,Loss vs Val_Loss,0.1055542565507043,False
+records/logs\AFTFullClassifier_tsreg_jena_climate.csv,AFTFullClassifier,All Losses Across Epochs,0.0018528706744714552,True
+records/logs\AFTFullClassifier_tsreg_jena_climate.csv,AFTFullClassifier,All Val_Losses Across Epochs,0.004167501561121545,True
+records/logs\aftfull_audio_cls_audio_cls.csv,aftfull,Loss vs Val_Loss,0.4148635610497193,False
+records/logs\aftfull_audio_cls_audio_cls.csv,aftfull,All Losses Across Epochs,0.003693012513793393,True
+records/logs\aftfull_audio_cls_audio_cls.csv,aftfull,All Val_Losses Across Epochs,3.490879198142638e-05,True
+records/logs\aftfull_image_cls_image_cls.csv,aftfull,Loss vs Val_Loss,0.2971642411101106,False
+records/logs\aftfull_image_cls_image_cls.csv,aftfull,All Losses Across Epochs,0.00022983021810250268,True
+records/logs\aftfull_image_cls_image_cls.csv,aftfull,All Val_Losses Across Epochs,6.574299051201674e-05,True
+records/logs\aftfull_image_cls_image_reg.csv,aftfull,Loss vs Val_Loss,,False
+records/logs\aftfull_image_cls_image_reg.csv,aftfull,All Losses Across Epochs,4.871579759516338e-05,True
+records/logs\aftfull_image_cls_image_reg.csv,aftfull,All Val_Losses Across Epochs,,False
+records/logs\aftfull_video_cls.csv,aftfull,Loss vs Val_Loss,0.19960281269386096,False
+records/logs\aftfull_video_cls.csv,aftfull,All Losses Across Epochs,0.12974754765749621,False
+records/logs\aftfull_video_cls.csv,aftfull,All Val_Losses Across Epochs,0.007844487137557143,True
+records/logs\aftfull_video_reg.csv,aftfull,Loss vs Val_Loss,0.35910349257548496,False
+records/logs\aftfull_video_reg.csv,aftfull,All Losses Across Epochs,0.3241708227054644,False
+records/logs\aftfull_video_reg.csv,aftfull,All Val_Losses Across Epochs,0.14107892694351507,False
+records/logs\CBAMClassifier_tsreg_jena_climate.csv,CBAMClassifier,Loss vs Val_Loss,0.4793758633498461,False
+records/logs\CBAMClassifier_tsreg_jena_climate.csv,CBAMClassifier,All Losses Across Epochs,6.589525869607406e-06,True
+records/logs\CBAMClassifier_tsreg_jena_climate.csv,CBAMClassifier,All Val_Losses Across Epochs,4.669884163251343e-05,True
+records/logs\cbam_audio_cls_audio_cls.csv,cbam,Loss vs Val_Loss,0.0870279188513698,False
+records/logs\cbam_audio_cls_audio_cls.csv,cbam,All Losses Across Epochs,5.101348490868845e-05,True
+records/logs\cbam_audio_cls_audio_cls.csv,cbam,All Val_Losses Across Epochs,3.9362454359691784e-05,True
+records/logs\cbam_image_cls_image_cls.csv,cbam,Loss vs Val_Loss,0.18362277244202194,False
+records/logs\cbam_image_cls_image_cls.csv,cbam,All Losses Across Epochs,1.9952211389989194e-05,True
+records/logs\cbam_image_cls_image_cls.csv,cbam,All Val_Losses Across Epochs,4.513084923603932e-06,True
+records/logs\cbam_image_cls_image_reg.csv,cbam,Loss vs Val_Loss,,False
+records/logs\cbam_image_cls_image_reg.csv,cbam,All Losses Across Epochs,2.2226073549681235e-05,True
+records/logs\cbam_image_cls_image_reg.csv,cbam,All Val_Losses Across Epochs,,False
+records/logs\cbam_video_cls.csv,cbam,Loss vs Val_Loss,0.08615540010435753,False
+records/logs\cbam_video_cls.csv,cbam,All Losses Across Epochs,0.0452243865985427,True
+records/logs\cbam_video_cls.csv,cbam,All Val_Losses Across Epochs,0.0011477605916834905,True
+records/logs\cbam_video_reg.csv,cbam,Loss vs Val_Loss,0.360849812252537,False
+records/logs\cbam_video_reg.csv,cbam,All Losses Across Epochs,0.25796573833597797,False
+records/logs\cbam_video_reg.csv,cbam,All Val_Losses Across Epochs,0.11856759114286375,False
+records/logs\ConvMixerClassifier_tsreg_jena_climate.csv,ConvMixerClassifier,Loss vs Val_Loss,0.02915038335181824,True
+records/logs\ConvMixerClassifier_tsreg_jena_climate.csv,ConvMixerClassifier,All Losses Across Epochs,0.006244713339306255,True
+records/logs\ConvMixerClassifier_tsreg_jena_climate.csv,ConvMixerClassifier,All Val_Losses Across Epochs,0.028861083428940247,True
+records/logs\convmixer_audio_cls_audio_cls.csv,convmixer,Loss vs Val_Loss,0.038618113351305834,True
+records/logs\convmixer_audio_cls_audio_cls.csv,convmixer,All Losses Across Epochs,0.00011109040596109525,True
+records/logs\convmixer_audio_cls_audio_cls.csv,convmixer,All Val_Losses Across Epochs,0.00024329988010487826,True
+records/logs\DoubleAttentionClassifier_tsreg_jena_climate.csv,DoubleAttentionClassifier,Loss vs Val_Loss,0.22027681656596185,False
+records/logs\DoubleAttentionClassifier_tsreg_jena_climate.csv,DoubleAttentionClassifier,All Losses Across Epochs,0.00010801785481926524,True
+records/logs\DoubleAttentionClassifier_tsreg_jena_climate.csv,DoubleAttentionClassifier,All Val_Losses Across Epochs,0.021473354202709523,True
+records/logs\doubleattention_audio_cls_audio_cls.csv,doubleattention,Loss vs Val_Loss,0.7790488513492639,False
+records/logs\doubleattention_audio_cls_audio_cls.csv,doubleattention,All Losses Across Epochs,7.868664493748983e-05,True
+records/logs\doubleattention_audio_cls_audio_cls.csv,doubleattention,All Val_Losses Across Epochs,1.966385303303333e-05,True
+records/logs\doubleattention_image_cls_image_cls.csv,doubleattention,Loss vs Val_Loss,0.08620305295113578,False
+records/logs\doubleattention_image_cls_image_cls.csv,doubleattention,All Losses Across Epochs,4.800907563425382e-07,True
+records/logs\doubleattention_image_cls_image_cls.csv,doubleattention,All Val_Losses Across Epochs,2.672451406388167e-07,True
+records/logs\doubleattention_image_cls_image_reg.csv,doubleattention,Loss vs Val_Loss,,False
+records/logs\doubleattention_image_cls_image_reg.csv,doubleattention,All Losses Across Epochs,2.823984924426946e-07,True
+records/logs\doubleattention_image_cls_image_reg.csv,doubleattention,All Val_Losses Across Epochs,,False
+records/logs\doubleattention_video_cls.csv,doubleattention,Loss vs Val_Loss,0.052197353619567684,False
+records/logs\doubleattention_video_cls.csv,doubleattention,All Losses Across Epochs,0.01592591824995092,True
+records/logs\doubleattention_video_cls.csv,doubleattention,All Val_Losses Across Epochs,0.00023470838526419823,True
+records/logs\doubleattention_video_reg.csv,doubleattention,Loss vs Val_Loss,0.3374222590280364,False
+records/logs\doubleattention_video_reg.csv,doubleattention,All Losses Across Epochs,0.3046665651464423,False
+records/logs\doubleattention_video_reg.csv,doubleattention,All Val_Losses Across Epochs,0.03731616942559421,True
+records/logs\ECAAttentionClassifier_tsreg_jena_climate.csv,ECAAttentionClassifier,Loss vs Val_Loss,0.06875786975632939,False
+records/logs\ECAAttentionClassifier_tsreg_jena_climate.csv,ECAAttentionClassifier,All Losses Across Epochs,1.1816655714827366e-05,True
+records/logs\ECAAttentionClassifier_tsreg_jena_climate.csv,ECAAttentionClassifier,All Val_Losses Across Epochs,2.1559043846199645e-05,True
+records/logs\ecaattention_audio_cls_audio_cls.csv,ecaattention,Loss vs Val_Loss,0.03826286760137768,True
+records/logs\ecaattention_audio_cls_audio_cls.csv,ecaattention,All Losses Across Epochs,8.14936522693717e-05,True
+records/logs\ecaattention_audio_cls_audio_cls.csv,ecaattention,All Val_Losses Across Epochs,7.173126314327015e-05,True
+records/logs\ecaattention_image_cls_image_cls.csv,ecaattention,Loss vs Val_Loss,0.20175150796039207,False
+records/logs\ecaattention_image_cls_image_cls.csv,ecaattention,All Losses Across Epochs,5.103046518056187e-06,True
+records/logs\ecaattention_image_cls_image_cls.csv,ecaattention,All Val_Losses Across Epochs,1.2942662981983247e-06,True
+records/logs\ecaattention_image_cls_image_reg.csv,ecaattention,Loss vs Val_Loss,,False
+records/logs\ecaattention_image_cls_image_reg.csv,ecaattention,All Losses Across Epochs,2.045047845212626e-05,True
+records/logs\ecaattention_image_cls_image_reg.csv,ecaattention,All Val_Losses Across Epochs,,False
+records/logs\ecaattention_video_cls.csv,ecaattention,Loss vs Val_Loss,0.10160791164983317,False
+records/logs\ecaattention_video_cls.csv,ecaattention,All Losses Across Epochs,0.057313703324722826,False
+records/logs\ecaattention_video_cls.csv,ecaattention,All Val_Losses Across Epochs,0.0018480278982965816,True
+records/logs\ecaattention_video_reg.csv,ecaattention,Loss vs Val_Loss,0.3083815948663575,False
+records/logs\ecaattention_video_reg.csv,ecaattention,All Losses Across Epochs,0.27463361030846084,False
+records/logs\ecaattention_video_reg.csv,ecaattention,All Val_Losses Across Epochs,0.005836562026788805,True
+records/logs\exattention_audio_cls_audio_cls.csv,exattention,Loss vs Val_Loss,0.3458413477746826,False
+records/logs\exattention_audio_cls_audio_cls.csv,exattention,All Losses Across Epochs,0.001452413278671708,True
+records/logs\exattention_audio_cls_audio_cls.csv,exattention,All Val_Losses Across Epochs,0.0009145764944246497,True
+records/logs\exattention_image_cls_image_cls.csv,exattention,Loss vs Val_Loss,0.29483769074710725,False
+records/logs\exattention_image_cls_image_cls.csv,exattention,All Losses Across Epochs,4.7749676754056196e-05,True
+records/logs\exattention_image_cls_image_cls.csv,exattention,All Val_Losses Across Epochs,1.0943007786926767e-05,True
+records/logs\exattention_image_cls_image_reg.csv,exattention,Loss vs Val_Loss,,False
+records/logs\exattention_image_cls_image_reg.csv,exattention,All Losses Across Epochs,4.064612919046037e-05,True
+records/logs\exattention_image_cls_image_reg.csv,exattention,All Val_Losses Across Epochs,,False
+records/logs\exattention_video_cls.csv,exattention,Loss vs Val_Loss,0.1265938683207755,False
+records/logs\exattention_video_cls.csv,exattention,All Losses Across Epochs,0.07910213955193739,False
+records/logs\exattention_video_cls.csv,exattention,All Val_Losses Across Epochs,0.004629494693130369,True
+records/logs\exattention_video_reg.csv,exattention,Loss vs Val_Loss,0.33271699851824915,False
+records/logs\exattention_video_reg.csv,exattention,All Losses Across Epochs,0.26927912968652806,False
+records/logs\exattention_video_reg.csv,exattention,All Val_Losses Across Epochs,0.016039149160934046,True
+records/logs\ExternalTransformerClassifier_tsreg_jena_climate.csv,ExternalTransformerClassifier,Loss vs Val_Loss,0.07862276418545606,False
+records/logs\ExternalTransformerClassifier_tsreg_jena_climate.csv,ExternalTransformerClassifier,All Losses Across Epochs,4.9304611724372716e-05,True
+records/logs\ExternalTransformerClassifier_tsreg_jena_climate.csv,ExternalTransformerClassifier,All Val_Losses Across Epochs,0.005779585501114347,True
+records/logs\fnet_audio_cls_audio_cls.csv,fnet,Loss vs Val_Loss,0.8326805761422558,False
+records/logs\fnet_audio_cls_audio_cls.csv,fnet,All Losses Across Epochs,0.0005477677917083286,True
+records/logs\fnet_audio_cls_audio_cls.csv,fnet,All Val_Losses Across Epochs,6.99697354391332e-05,True
+records/logs\fnet_image_cls_image_cls.csv,fnet,Loss vs Val_Loss,0.09709213464353442,False
+records/logs\fnet_image_cls_image_cls.csv,fnet,All Losses Across Epochs,1.8717088005407463e-05,True
+records/logs\fnet_image_cls_image_cls.csv,fnet,All Val_Losses Across Epochs,8.658501824949529e-06,True
+records/logs\fnet_image_cls_image_reg.csv,fnet,Loss vs Val_Loss,,False
+records/logs\fnet_image_cls_image_reg.csv,fnet,All Losses Across Epochs,0.00025261484313116435,True
+records/logs\fnet_image_cls_image_reg.csv,fnet,All Val_Losses Across Epochs,,False
+records/logs\gmlp_audio_cls_audio_cls.csv,gmlp,Loss vs Val_Loss,0.5000930263329765,False
+records/logs\gmlp_audio_cls_audio_cls.csv,gmlp,All Losses Across Epochs,0.0013547126427898293,True
+records/logs\gmlp_audio_cls_audio_cls.csv,gmlp,All Val_Losses Across Epochs,0.00018974293719390008,True
+records/logs\gmlp_image_cls_image_cls.csv,gmlp,Loss vs Val_Loss,0.3755537746018207,False
+records/logs\gmlp_image_cls_image_cls.csv,gmlp,All Losses Across Epochs,5.5164236585531584e-05,True
+records/logs\gmlp_image_cls_image_cls.csv,gmlp,All Val_Losses Across Epochs,1.6287583410630968e-05,True
+records/logs\gmlp_image_cls_image_reg.csv,gmlp,Loss vs Val_Loss,,False
+records/logs\gmlp_image_cls_image_reg.csv,gmlp,All Losses Across Epochs,8.932347314125586e-05,True
+records/logs\gmlp_image_cls_image_reg.csv,gmlp,All Val_Losses Across Epochs,,False
+records/logs\GRUClassifier_ts_clf_ford.csv,GRUClassifier,Loss vs Val_Loss,0.1247345098279632,False
+records/logs\GRUClassifier_ts_clf_ford.csv,GRUClassifier,All Losses Across Epochs,0.004009246358501114,True
+records/logs\GRUClassifier_ts_clf_ford.csv,GRUClassifier,All Val_Losses Across Epochs,0.014035097918669972,True
+records/logs\gru_audio_cls_audio_cls.csv,gru,Loss vs Val_Loss,0.8390831826397895,False
+records/logs\gru_audio_cls_audio_cls.csv,gru,All Losses Across Epochs,0.01185623256486874,True
+records/logs\gru_audio_cls_audio_cls.csv,gru,All Val_Losses Across Epochs,0.0015292726214048728,True
+records/logs\gru_image_cls_image_cls.csv,gru,Loss vs Val_Loss,0.1883518425139663,False
+records/logs\gru_image_cls_image_cls.csv,gru,All Losses Across Epochs,2.3286660957869366e-05,True
+records/logs\gru_image_cls_image_cls.csv,gru,All Val_Losses Across Epochs,5.150216886610973e-06,True
+records/logs\gru_image_cls_image_reg.csv,gru,Loss vs Val_Loss,,False
+records/logs\gru_image_cls_image_reg.csv,gru,All Losses Across Epochs,6.176265841782124e-05,True
+records/logs\gru_image_cls_image_reg.csv,gru,All Val_Losses Across Epochs,,False
+records/logs\gru_video_cls.csv,gru,Loss vs Val_Loss,0.15537061356525558,False
+records/logs\gru_video_cls.csv,gru,All Losses Across Epochs,0.07373273198395582,False
+records/logs\gru_video_cls.csv,gru,All Val_Losses Across Epochs,0.0026559123277914006,True
+records/logs\gru_video_reg.csv,gru,Loss vs Val_Loss,0.3324644438097072,False
+records/logs\gru_video_reg.csv,gru,All Losses Across Epochs,0.301573491634397,False
+records/logs\gru_video_reg.csv,gru,All Val_Losses Across Epochs,0.17440070428641502,False
+records/logs\LSTMClassifier_ts_clf_ford.csv,LSTMClassifier,Loss vs Val_Loss,0.42888964164614796,False
+records/logs\LSTMClassifier_ts_clf_ford.csv,LSTMClassifier,All Losses Across Epochs,0.0007823900740474325,True
+records/logs\LSTMClassifier_ts_clf_ford.csv,LSTMClassifier,All Val_Losses Across Epochs,0.003085754320152626,True
+records/logs\lstm_audio_cls_audio_cls.csv,lstm,Loss vs Val_Loss,0.9775770672866806,False
+records/logs\lstm_audio_cls_audio_cls.csv,lstm,All Losses Across Epochs,0.005263249942600144,True
+records/logs\lstm_audio_cls_audio_cls.csv,lstm,All Val_Losses Across Epochs,0.0007882891135205967,True
+records/logs\lstm_image_cls_image_cls.csv,lstm,Loss vs Val_Loss,0.13237732710424005,False
+records/logs\lstm_image_cls_image_cls.csv,lstm,All Losses Across Epochs,2.7860779618727036e-05,True
+records/logs\lstm_image_cls_image_cls.csv,lstm,All Val_Losses Across Epochs,1.0686904391730082e-05,True
+records/logs\lstm_image_cls_image_reg.csv,lstm,Loss vs Val_Loss,,False
+records/logs\lstm_image_cls_image_reg.csv,lstm,All Losses Across Epochs,4.6473489498667505e-05,True
+records/logs\lstm_image_cls_image_reg.csv,lstm,All Val_Losses Across Epochs,,False
+records/logs\lstm_video_cls.csv,lstm,Loss vs Val_Loss,0.40857954189831613,False
+records/logs\lstm_video_cls.csv,lstm,All Losses Across Epochs,0.18266956325856765,False
+records/logs\lstm_video_cls.csv,lstm,All Val_Losses Across Epochs,0.0002692797480162156,True
+records/logs\lstm_video_reg.csv,lstm,Loss vs Val_Loss,0.3579170222259282,False
+records/logs\lstm_video_reg.csv,lstm,All Losses Across Epochs,0.31679168407113,False
+records/logs\lstm_video_reg.csv,lstm,All Val_Losses Across Epochs,0.07921632355052163,False
+records/logs\mixer_audio_cls_audio_cls.csv,mixer,Loss vs Val_Loss,0.3759837794513623,False
+records/logs\mixer_audio_cls_audio_cls.csv,mixer,All Losses Across Epochs,0.000992192824973036,True
+records/logs\mixer_audio_cls_audio_cls.csv,mixer,All Val_Losses Across Epochs,4.827642668563881e-05,True
+records/logs\mixer_image_cls_image_cls.csv,mixer,Loss vs Val_Loss,0.37538120829079114,False
+records/logs\mixer_image_cls_image_cls.csv,mixer,All Losses Across Epochs,0.00030781834220806214,True
+records/logs\mixer_image_cls_image_cls.csv,mixer,All Val_Losses Across Epochs,8.265693514976849e-17,True
+records/logs\mixer_image_cls_image_reg.csv,mixer,Loss vs Val_Loss,,False
+records/logs\mixer_image_cls_image_reg.csv,mixer,All Losses Across Epochs,0.00014927289137737986,True
+records/logs\mixer_image_cls_image_reg.csv,mixer,All Val_Losses Across Epochs,,False
+records/logs\MLPClassifier_ts_clf_ford.csv,MLPClassifier,Loss vs Val_Loss,0.04270193150855173,True
+records/logs\MLPClassifier_ts_clf_ford.csv,MLPClassifier,All Losses Across Epochs,4.544132957571688e-15,True
+records/logs\MLPClassifier_ts_clf_ford.csv,MLPClassifier,All Val_Losses Across Epochs,2.031104491461937e-13,True
+records/logs\mlp_audio_cls_audio_cls.csv,mlp,Loss vs Val_Loss,0.5630413110622352,False
+records/logs\mlp_audio_cls_audio_cls.csv,mlp,All Losses Across Epochs,1.5360544622436878e-09,True
+records/logs\mlp_audio_cls_audio_cls.csv,mlp,All Val_Losses Across Epochs,3.221810660839851e-11,True
+records/logs\mlp_image_cls_image_cls.csv,mlp,Loss vs Val_Loss,0.37536030556672456,False
+records/logs\mlp_image_cls_image_cls.csv,mlp,All Losses Across Epochs,0.0003307781851456328,True
+records/logs\mlp_image_cls_image_cls.csv,mlp,All Val_Losses Across Epochs,1.8626717516862142e-16,True
+records/logs\mlp_image_cls_image_reg.csv,mlp,Loss vs Val_Loss,,False
+records/logs\mlp_image_cls_image_reg.csv,mlp,All Losses Across Epochs,2.2545909112531575e-06,True
+records/logs\mlp_image_cls_image_reg.csv,mlp,All Val_Losses Across Epochs,,False
+records/logs\mlp_video_cls.csv,mlp,Loss vs Val_Loss,0.09728966887533118,False
+records/logs\mlp_video_cls.csv,mlp,All Losses Across Epochs,0.027263678253617536,True
+records/logs\mlp_video_cls.csv,mlp,All Val_Losses Across Epochs,1.3497568514172077e-05,True
+records/logs\mlp_video_reg.csv,mlp,Loss vs Val_Loss,0.33772774645090076,False
+records/logs\mlp_video_reg.csv,mlp,All Losses Across Epochs,0.19887043265909296,False
+records/logs\mlp_video_reg.csv,mlp,All Val_Losses Across Epochs,0.036370718953571884,True
+records/logs\ParNetAttentionClassifier_tsreg_jena_climate.csv,ParNetAttentionClassifier,Loss vs Val_Loss,0.003958865916311367,True
+records/logs\ParNetAttentionClassifier_tsreg_jena_climate.csv,ParNetAttentionClassifier,All Losses Across Epochs,1.1635503769390364e-05,True
+records/logs\ParNetAttentionClassifier_tsreg_jena_climate.csv,ParNetAttentionClassifier,All Val_Losses Across Epochs,0.0004857876982349326,True
+records/logs\parnet_audio_cls_audio_cls.csv,parnet,Loss vs Val_Loss,0.6481344675421868,False
+records/logs\parnet_audio_cls_audio_cls.csv,parnet,All Losses Across Epochs,0.00031121655203622593,True
+records/logs\parnet_audio_cls_audio_cls.csv,parnet,All Val_Losses Across Epochs,9.213437124888273e-05,True
+records/logs\parnet_image_cls_image_cls.csv,parnet,Loss vs Val_Loss,0.3176503550237329,False
+records/logs\parnet_image_cls_image_cls.csv,parnet,All Losses Across Epochs,3.3982488717344284e-05,True
+records/logs\parnet_image_cls_image_cls.csv,parnet,All Val_Losses Across Epochs,7.077347784286429e-06,True
+records/logs\parnet_image_cls_image_reg.csv,parnet,Loss vs Val_Loss,,False
+records/logs\parnet_image_cls_image_reg.csv,parnet,All Losses Across Epochs,9.01493933352069e-05,True
+records/logs\parnet_image_cls_image_reg.csv,parnet,All Val_Losses Across Epochs,,False
+records/logs\parnet_video_cls.csv,parnet,Loss vs Val_Loss,0.24798532368229836,False
+records/logs\parnet_video_cls.csv,parnet,All Losses Across Epochs,0.12154165893641489,False
+records/logs\parnet_video_cls.csv,parnet,All Val_Losses Across Epochs,0.01127976532413585,True
+records/logs\parnet_video_reg.csv,parnet,Loss vs Val_Loss,0.6648953350879285,False
+records/logs\parnet_video_reg.csv,parnet,All Losses Across Epochs,0.3068873521795127,False
+records/logs\parnet_video_reg.csv,parnet,All Val_Losses Across Epochs,0.022390797233241725,True
+records/logs\RNNClassifier_ts_clf_ford.csv,RNNClassifier,Loss vs Val_Loss,0.08943227641764298,False
+records/logs\RNNClassifier_ts_clf_ford.csv,RNNClassifier,All Losses Across Epochs,0.006010811658325881,True
+records/logs\RNNClassifier_ts_clf_ford.csv,RNNClassifier,All Val_Losses Across Epochs,0.00040849847591929543,True
+records/logs\rnn_audio_cls_audio_cls.csv,rnn,Loss vs Val_Loss,0.05421465895453633,False
+records/logs\rnn_audio_cls_audio_cls.csv,rnn,All Losses Across Epochs,3.9593286819961565e-05,True
+records/logs\rnn_audio_cls_audio_cls.csv,rnn,All Val_Losses Across Epochs,3.362069144208037e-05,True
+records/logs\rnn_image_cls_image_cls.csv,rnn,Loss vs Val_Loss,0.09416188236327884,False
+records/logs\rnn_image_cls_image_cls.csv,rnn,All Losses Across Epochs,8.737944439979694e-07,True
+records/logs\rnn_image_cls_image_cls.csv,rnn,All Val_Losses Across Epochs,7.419177830890225e-07,True
+records/logs\rnn_image_cls_image_reg.csv,rnn,Loss vs Val_Loss,,False
+records/logs\rnn_image_cls_image_reg.csv,rnn,All Losses Across Epochs,2.987768311164669e-07,True
+records/logs\rnn_image_cls_image_reg.csv,rnn,All Val_Losses Across Epochs,,False
+records/logs\rnn_video_cls.csv,rnn,Loss vs Val_Loss,0.15073235100279722,False
+records/logs\rnn_video_cls.csv,rnn,All Losses Across Epochs,0.07454304119809427,False
+records/logs\rnn_video_cls.csv,rnn,All Val_Losses Across Epochs,0.0034022467515087036,True
+records/logs\rnn_video_reg.csv,rnn,Loss vs Val_Loss,0.34036605357987404,False
+records/logs\rnn_video_reg.csv,rnn,All Losses Across Epochs,0.3035683989830969,False
+records/logs\rnn_video_reg.csv,rnn,All Val_Losses Across Epochs,0.18538934999311574,False
+records/logs\SEAttentionClassifier_tsreg_jena_climate.csv,SEAttentionClassifier,Loss vs Val_Loss,0.21168152133140106,False
+records/logs\SEAttentionClassifier_tsreg_jena_climate.csv,SEAttentionClassifier,All Losses Across Epochs,7.71166436091724e-06,True
+records/logs\SEAttentionClassifier_tsreg_jena_climate.csv,SEAttentionClassifier,All Val_Losses Across Epochs,3.57303579995432e-05,True
+records/logs\seattention_audio_cls_audio_cls.csv,seattention,Loss vs Val_Loss,0.07634860244023296,False
+records/logs\seattention_audio_cls_audio_cls.csv,seattention,All Losses Across Epochs,5.947003796371847e-05,True
+records/logs\seattention_audio_cls_audio_cls.csv,seattention,All Val_Losses Across Epochs,4.5422759578637645e-05,True
+records/logs\seattention_image_cls_image_cls.csv,seattention,Loss vs Val_Loss,0.2267065294289579,False
+records/logs\seattention_image_cls_image_cls.csv,seattention,All Losses Across Epochs,2.6428522365535306e-05,True
+records/logs\seattention_image_cls_image_cls.csv,seattention,All Val_Losses Across Epochs,6.326264208116978e-06,True
+records/logs\seattention_image_cls_image_reg.csv,seattention,Loss vs Val_Loss,,False
+records/logs\seattention_image_cls_image_reg.csv,seattention,All Losses Across Epochs,1.7188704795886094e-05,True
+records/logs\seattention_image_cls_image_reg.csv,seattention,All Val_Losses Across Epochs,,False
+records/logs\seattention_video_cls.csv,seattention,Loss vs Val_Loss,0.12306032343878924,False
+records/logs\seattention_video_cls.csv,seattention,All Losses Across Epochs,0.06499169356449143,False
+records/logs\seattention_video_cls.csv,seattention,All Val_Losses Across Epochs,0.0008853946768102119,True
+records/logs\seattention_video_reg.csv,seattention,Loss vs Val_Loss,0.3473723424779079,False
+records/logs\seattention_video_reg.csv,seattention,All Losses Across Epochs,0.2604800769103633,False
+records/logs\seattention_video_reg.csv,seattention,All Val_Losses Across Epochs,0.11753734727879346,False
+records/logs\SimAMClassifier_tsreg_jena_climate.csv,SimAMClassifier,Loss vs Val_Loss,0.07995552157278639,False
+records/logs\SimAMClassifier_tsreg_jena_climate.csv,SimAMClassifier,All Losses Across Epochs,5.070959150029282e-06,True
+records/logs\SimAMClassifier_tsreg_jena_climate.csv,SimAMClassifier,All Val_Losses Across Epochs,3.254934345658863e-05,True
+records/logs\simam_audio_cls_audio_cls.csv,simam,Loss vs Val_Loss,0.0033311180964804526,True
+records/logs\simam_audio_cls_audio_cls.csv,simam,All Losses Across Epochs,3.2053685645021146e-05,True
+records/logs\simam_audio_cls_audio_cls.csv,simam,All Val_Losses Across Epochs,4.7391546356142566e-05,True
+records/logs\simam_image_cls_image_cls.csv,simam,Loss vs Val_Loss,0.25560374769826166,False
+records/logs\simam_image_cls_image_cls.csv,simam,All Losses Across Epochs,3.981617612868356e-05,True
+records/logs\simam_image_cls_image_cls.csv,simam,All Val_Losses Across Epochs,8.409830572523776e-06,True
+records/logs\simam_image_cls_image_reg.csv,simam,Loss vs Val_Loss,,False
+records/logs\simam_image_cls_image_reg.csv,simam,All Losses Across Epochs,3.6708501359485837e-05,True
+records/logs\simam_image_cls_image_reg.csv,simam,All Val_Losses Across Epochs,,False
+records/logs\simam_video_cls.csv,simam,Loss vs Val_Loss,0.07535588855308004,False
+records/logs\simam_video_cls.csv,simam,All Losses Across Epochs,0.03792543124298516,True
+records/logs\simam_video_cls.csv,simam,All Val_Losses Across Epochs,0.0006347291659197009,True
+records/logs\simam_video_reg.csv,simam,Loss vs Val_Loss,0.38392621943033733,False
+records/logs\simam_video_reg.csv,simam,All Losses Across Epochs,0.2398195654900644,False
+records/logs\simam_video_reg.csv,simam,All Val_Losses Across Epochs,0.1183589377036981,False
+records/logs\UFOAttentionClassifier_tsreg_jena_climate.csv,UFOAttentionClassifier,Loss vs Val_Loss,0.07698113011932697,False
+records/logs\UFOAttentionClassifier_tsreg_jena_climate.csv,UFOAttentionClassifier,All Losses Across Epochs,1.095163439634492e-05,True
+records/logs\UFOAttentionClassifier_tsreg_jena_climate.csv,UFOAttentionClassifier,All Val_Losses Across Epochs,0.0006237763521654654,True
+records/logs\ufoattention_audio_cls_audio_cls.csv,ufoattention,Loss vs Val_Loss,0.4833666829003604,False
+records/logs\ufoattention_audio_cls_audio_cls.csv,ufoattention,All Losses Across Epochs,0.0011351753266870591,True
+records/logs\ufoattention_audio_cls_audio_cls.csv,ufoattention,All Val_Losses Across Epochs,0.0003695989514710815,True
